@@ -26,6 +26,6 @@
 
 ![](circuit(2).jpeg)
 
-![](result(2))
+![](result(2).jpeg)
 
 
